@@ -3,7 +3,7 @@
 
 -->
 
-<img src="cover photo\Add a subheading.png" alt="Coder GIF" width="100%">
+<img src="cover photo\heading.jpeg" alt="Coder GIF" width="100%">
 <h2 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
   <p>I'm <b>Shreyash Mehrotra</b>, Second year student  at Vellore Institute Of Technology, Vellore (VIT-Vellore) ✨. I am  learning  Web Development  and loves to explore other domains  as well and open to connect.
   </p>
