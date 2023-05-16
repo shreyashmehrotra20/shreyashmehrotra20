@@ -1,4 +1,4 @@
-![logo](https://github.com/shreyashmehrotra20/shreyashmehrotra20/blob/main/Black%20and%20White%20Simple%20Motivation%20Phone%20Wallpaper.png height="600")
+![logo width="400"](https://github.com/shreyashmehrotra20/shreyashmehrotra20/blob/main/bgimage%20github.png)
 <h1 align="center">Hi 👋, I'm Shreyash Mehrotra</h1>
 <h3 align="center">Shreyash Mehrotra: BTech CS (IoT) | Web Developer | Eager Learner | VIT Vellore | Seeking Job Opportunities | Open to Collaboration</h3>
 
