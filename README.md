@@ -1,71 +1,31 @@
-<!--
-**shreyashmehrotra20/shreyashmehrotra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://github.com/shreyashmehrotra20/shreyashmehrotra20/blob/main/Black%20and%20White%20Simple%20Motivation%20Phone%20Wallpaper.png height="600")
+<h1 align="center">Hi 👋, I'm Shreyash Mehrotra</h1>
+<h3 align="center">Shreyash Mehrotra: BTech CS (IoT) | Web Developer | Eager Learner | VIT Vellore | Seeking Job Opportunities | Open to Collaboration</h3>
 
--->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashmehrotra20&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashmehrotra20" /> </p>
 
-<img src="cover photo\heading.jpeg" alt="Coder GIF" width="100%">
-<h2 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
-  <p>I'm <b>Shreyash Mehrotra</b>, Second year student  at Vellore Institute Of Technology, Vellore (VIT-Vellore) ✨. I am  learning  Web Development  and loves to explore other domains  as well and open to connect.
-  </p>
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashmehrotra20" alt="shreyashmehrotra20" /></a> </p>
 
-<h2 align="left">🔗 Connect With Me</h2>
-<pre>
+- 🌱 I’m currently learning **ReactJS,Chakra UI**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-mehrotra-637a50201) [![Facebook Badge](https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shreyash.mehrotra.9) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shreyash_mehrotra/)
+- 💬 Ask me about **Data Structures , ReactJs**
 
-</pre> 
-<h2 align="left">🛠 Technologies and Tools I use:</h2>
-<pre align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>     
-  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://xaviergreer.com/static/images/cplus.png" alt="c++" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://search.brave.com/search?q=python+logo&source=desktop" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.iconfinder.com/icons/1174949/js_react_js_logo_react_react_native_icon" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>    <a href="https://brandslogos.com/b/bootstrap-logo/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://commons.wikimedia.org/wiki/File:JQuery-Logo.svg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="bootstrap" width="60" height="30"/> </a>  
-  <a href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="bootstrap" width="40" height="40"/> </a>
+- 📫 How to reach me **shreyashmehrotra20@gmail.com**
 
+- ⚡ Fun fact **I am big Foodie 😋😋**
 
-
-
-
-</pre>
-
-<br>
-
-### ♾️ Github Stats:
-
-<br>
-<p align="center">
-  <a href="https://github.com/shreyashmehrotra20"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shreyashmehrotra20&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashmehrotra20&theme=radical" />
-    <!--(<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreyashmehrotra20&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>)-->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashmehrotra20&theme=dracula" />
-   <br />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashmehrotra20&hide=php&theme=dracula" /></span></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreyash mehrotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash mehrotra" height="30" width="40" /></a>
+<a href="https://instagram.com/shreyash_mehrotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyash_mehrotra" height="30" width="40" /></a>
 </p>
 
-<br />  
-<br />
-  
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shreyashmehrotra20&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashmehrotra20&show_icons=true&locale=en&layout=compact" alt="shreyashmehrotra20" /></p>
 
-### 📈 GitHub Activity:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashmehrotra20&show_icons=true&locale=en" alt="shreyashmehrotra20" /></p>
 
-<a href="https://github.com/shreyashmehrotra20/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shreyashmehrotra20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<br>
-
-### Important Repositories
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shreyashmehrotra20&repo=Checkerweb&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shreyashmehrotra20&repo=Animal-Research&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shreyashmehrotra20&repo=drum-kit-&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shreyashmehrotra20&repo=covid&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashmehrotra20&" alt="shreyashmehrotra20" /></p>
